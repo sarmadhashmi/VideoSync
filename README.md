@@ -4,6 +4,7 @@ This small application allows you to take your local video files and stream them
 
 # HOW TO
 (Need to have [NodeJS](www.nodejs.org) installed)
+
 1. Download the zip file
 2. Extract and run `npm install` in the extracted folder
 3. Run `node app.js`
